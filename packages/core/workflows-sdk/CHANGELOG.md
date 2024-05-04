@@ -1,5 +1,14 @@
 # @medusajs/workflows-sdk
 
+## 0.1.7
+
+### Patch Changes
+
+- [#7183](https://github.com/medusajs/medusa/pull/7183) [`7a351eef09`](https://github.com/medusajs/medusa/commit/7a351eef09f769e1e28e6f136438fa30f607f34b) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(workflows-sdk): Execute workflows as step in other workflows
+
+- Updated dependencies [[`9d3f495314`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/utils@1.11.10
+
 ## 0.1.6
 
 ### Patch Changes

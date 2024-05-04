@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.3.23
+
+### Patch Changes
+
+- [#7211](https://github.com/medusajs/medusa/pull/7211) [`5bc780a646`](https://github.com/medusajs/medusa/commit/5bc780a64626a89f42a46723a7bc84a41ca3d953) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(medusa-cli): added v2 flag
+
+- Updated dependencies [[`9d3f495314`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/utils@1.11.10
+
 ## 1.3.22
 
 ### Patch Changes
