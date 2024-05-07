@@ -1,5 +1,13 @@
 # @medusajs/types
 
+## 1.11.17
+
+### Patch Changes
+
+- [#7201](https://github.com/medusajs/medusa/pull/7201) [`f129415650`](https://github.com/medusajs/medusa/commit/f1294156505f94bfdcbe8c621f39d1655ed5314d) Thanks [@riqwan](https://github.com/riqwan)! - feat(medusa,core-flows,types): added a basic endpoint for complete cart
+
+- [#7169](https://github.com/medusajs/medusa/pull/7169) [`9d3f495314`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fulfillment - shipping options with context
+
 ## 1.11.16
 
 ### Patch Changes

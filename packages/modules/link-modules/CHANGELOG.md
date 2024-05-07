@@ -1,5 +1,15 @@
 # @medusajs/link-modules
 
+## 0.2.12
+
+### Patch Changes
+
+- [#7169](https://github.com/medusajs/medusa/pull/7169) [`9d3f495314`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fulfillment - shipping options with context
+
+- Updated dependencies [[`f129415650`](https://github.com/medusajs/medusa/commit/f1294156505f94bfdcbe8c621f39d1655ed5314d), [`9d3f495314`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/types@1.11.17
+  - @medusajs/utils@1.11.10
+
 ## 0.2.11
 
 ### Patch Changes
