@@ -1,5 +1,13 @@
 # @medusajs/promotion
 
+## 0.0.5
+
+### Patch Changes
+
+- Updated dependencies [[`f129415650`](https://github.com/medusajs/medusa/commit/f1294156505f94bfdcbe8c621f39d1655ed5314d), [`0430e63b0b`](https://github.com/medusajs/medusa/commit/0430e63b0bc1b3ed9c13bb6514b22474676e9509), [`a736e728b8`](https://github.com/medusajs/medusa/commit/a736e728b8a527119bc9ac331878a030a1e8a2f0), [`c32a31e139`](https://github.com/medusajs/medusa/commit/c32a31e1394609845a5f202b1684d70fea019dc9), [`5228b14ca9`](https://github.com/medusajs/medusa/commit/5228b14ca94d3a73e1af519fc0c1b12fcaefd462), [`9d3f495314`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/types@1.11.17
+  - @medusajs/utils@1.11.10
+
 ## 0.0.4
 
 ### Patch Changes
