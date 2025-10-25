@@ -1,5 +1,7 @@
 # @medusajs/types
 
+## 2.11.2
+
 ## 2.11.1
 
 ### Patch Changes
