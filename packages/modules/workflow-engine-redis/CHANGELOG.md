@@ -1,5 +1,12 @@
 # @medusajs/workflow-engine-redis
 
+## 2.15.6
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.15.6
+
 ## 2.15.5
 
 ### Patch Changes

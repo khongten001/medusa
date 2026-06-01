@@ -1,5 +1,14 @@
 # @medusajs/file-local
 
+## 2.15.6
+
+### Patch Changes
+
+- [#15558](https://github.com/medusajs/medusa/pull/15558) [`e1697b65ff73257939c714dd2c8afdb5efa5e947`](https://github.com/medusajs/medusa/commit/e1697b65ff73257939c714dd2c8afdb5efa5e947) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(file-local, core-flows): improve file resolution + invalid csv file handling
+
+- Updated dependencies []:
+  - @medusajs/framework@2.15.6
+
 ## 2.15.5
 
 ### Patch Changes
